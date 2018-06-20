@@ -1,15 +1,0 @@
-Dependencies for Project 'main', Target 'Target 1': (DO NOT MODIFY !)
-F (.\startup_rvmdk.S)(0x59A212A2)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-ID:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 524" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_rvmdk.lst --xref -o .\objects\startup_rvmdk.o --depend .\objects\startup_rvmdk.d)
-F (D:\ti\TivaWare_C_Series-2.1.4.178\driverlib\rvmdk\driverlib.lib)(0x5A181855)()
-F (.\main.c)(0x5AD2B75F)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I D:\ti\TivaWare_C_Series-2.1.4.178-I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DTM4C123GH6PM -Dnvmdk -DPART_TM4C123GH6PM-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
-I (D:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x588BC994)
-I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
-I (D:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x588BC994)
-I (D:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h)(0x5A18185D)
-I (D:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h)(0x5A18185D)
-I (D:\ti\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h)(0x5A181855)
-I (D:\ti\TivaWare_C_Series-2.1.4.178\driverlib\gpio.h)(0x5A181854)
-I (D:\ti\TivaWare_C_Series-2.1.4.178\driverlib\uart.h)(0x5A181855)
-I (D:\ti\TivaWare_C_Series-2.1.4.178\driverlib\adc.h)(0x5A181854)
-I (D:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h)(0x5A181854)
-I (D:\ti\TivaWare_C_Series-2.1.4.178\driverlib\pin_map.h)(0x5A181854)
